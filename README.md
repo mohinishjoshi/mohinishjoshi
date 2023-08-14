@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohinish Kant Joshi</h1>
-<h3 align="center">Senior Full Stack Developer @ VMware | YouTube Content Creator | Educator - 7+ years of experience in FullStack Application Design & Development</h3>
+<h3 align="center">Vice President @ Goldman Sachs | ex-VMware | YouTube Content Creator | Educator - 9+ years of experience in FullStack Application Design & Development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohinishjoshi" alt="mohinishjoshi" /></a> </p>
 
